@@ -27,8 +27,8 @@ export const Hero = () => {
                     </div>
 
                     <h1 className="text-5xl md:text-6xl font-bold leading-[1.1] mb-6 max-w-[640px]">
-                        Dejá de ser la secretaria de tu{' '}
-                        <span className="text-accent">propio negocio.</span>
+                        Ordená turnos y clientes en un {' '}
+                        <span className="text-accent">sistema claro.</span>
                     </h1>
 
                     <p className="text-lg text-white/60 mb-8 max-w-[540px] leading-relaxed">
